@@ -38,6 +38,9 @@ superset init
 superset run -p 8088 --with-threads --reload --debugger
 
 ## 🧠 Learning Objectives
+
 -Understand how to integrate PostgreSQL with Apache Superset
+
 -Explore data and create simple visualizations
+
 -Learn the basics of dashboard design and layout in Superset
