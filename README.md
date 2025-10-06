@@ -30,12 +30,12 @@ In this project, you’ll learn how to:
 
 ## ⚙️ Setup Instructions
 
-pip install apache-superset
-superset db upgrade
-superset fab create-admin
-superset load_examples
-superset init
-superset run -p 8088 --with-threads --reload --debugger
+– pip install apache-superset
+– superset db upgrade
+– superset fab create-admin
+– superset load_examples
+– superset init
+– superset run -p 8088 --with-threads --reload --debugger
 
 ## 🧠 Learning Objectives
 
